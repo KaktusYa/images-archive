@@ -1,0 +1,15 @@
+{
+  "totalCount": 2,
+  "1": {
+    "name": "Test theme",
+    "description": "A pizza with cheese!",
+    "author": "Schedule Dash",
+    "url": "http://testtheme2.com/theme.css"
+  },
+  "2": {
+    "name": "Super mega ultra cool theme",
+    "description": "Ahh.. Yes!",
+    "author": "Schedule Dash",
+    "url": "http://smucth.org/v1/sc-dash-theme.css"
+  }
+}
