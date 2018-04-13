@@ -1,5 +1,5 @@
 {
-  "totalCount": 2,
+  "totalCount": 3,
   "1": {
     "name": "Test theme",
     "description": "A pizza with cheese!",
@@ -11,5 +11,11 @@
     "description": "Ahh.. Yes!",
     "author": "Schedule Dash",
     "url": "http://smucth.org/v1/sc-dash-theme.css"
+  }
+    "3": {
+    "name": "Apelsina Theme",
+    "description": "Orange!!!! ORANGE!! MORE ORANGE!!!11",
+    "author": "Kaktys, Dravia Team",
+    "url": "http://site-645733.mozfiles.com/files/645733/apelsina_theme.css"
   }
 }
